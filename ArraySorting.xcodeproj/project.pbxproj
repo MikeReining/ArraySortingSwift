@@ -27,6 +27,7 @@
 
 /* Begin PBXFileReference section */
 		273EC1511A6ED2A60095EBEB /* Enumerate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerate.playground; sourceTree = "<group>"; };
+		274490A81A6EEDF2000AFB06 /* Task 5.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 5.playground"; sourceTree = "<group>"; };
 		275592D21A6EC5AB00D106C1 /* Task 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 3.playground"; sourceTree = "<group>"; };
 		275592D31A6EC5B500D106C1 /* Task 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 2.playground"; sourceTree = "<group>"; };
 		275592D41A6EC5BE00D106C1 /* Task 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 1.playground"; sourceTree = "<group>"; };
@@ -74,6 +75,7 @@
 				275592D31A6EC5B500D106C1 /* Task 2.playground */,
 				275592D21A6EC5AB00D106C1 /* Task 3.playground */,
 				278CB3A61A6EE2AE00356F5B /* Task 4.playground */,
+				274490A81A6EEDF2000AFB06 /* Task 5.playground */,
 			);
 			name = "Array Sorting";
 			sourceTree = "<group>";
