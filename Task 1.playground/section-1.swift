@@ -31,24 +31,7 @@ var sortFromAtoZ = sorted(array)
 var sortFromZtoA = sorted(array, { (s1, s2) in return s1 > s2})
 sortFromZtoA
 
-//MARK: Task 2 - Sort by lenght of string
-// Sort by length function
-
-func sortByLenght(s1: String, s2: String) -> Bool {
-    
-    return countElements(s1) > countElements(s2)
+for string in sortFromAtoZ {
+    println("\(string)")
 }
-
-// Sort by length closure
-
-var sortByLengthClosure = {
-    (s1: String, s2: String) -> Bool in
-    return countElements(s1) > countElements(s2)
-}
-
-// Sort array by length with closure
-var sortByLengthOfString = sorted(array, {
-    (s1: String, s2: String) -> Bool in
-    return countElements(s1) > countElements(s2)})
-
 

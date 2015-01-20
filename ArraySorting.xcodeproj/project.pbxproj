@@ -26,6 +26,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		273EC1511A6ED2A60095EBEB /* Enumerate.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enumerate.playground; sourceTree = "<group>"; };
+		275592D21A6EC5AB00D106C1 /* Task 3.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 3.playground"; sourceTree = "<group>"; };
+		275592D31A6EC5B500D106C1 /* Task 2.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 2.playground"; sourceTree = "<group>"; };
+		275592D41A6EC5BE00D106C1 /* Task 1.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 1.playground"; sourceTree = "<group>"; };
+		278CB3A31A6ED6F100356F5B /* Generator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generator.playground; sourceTree = "<group>"; };
+		278CB3A41A6ED85500356F5B /* Lecture.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lecture.playground; sourceTree = "<group>"; };
+		278CB3A51A6EDEFD00356F5B /* Slice.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Slice.playground; sourceTree = "<group>"; };
 		27AED7E41A6EA3B800D16205 /* ArraySorting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArraySorting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27AED7E81A6EA3B800D16205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27AED7E91A6EA3B800D16205 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -59,10 +66,21 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		275592D51A6EC5C600D106C1 /* Array Sorting */ = {
+			isa = PBXGroup;
+			children = (
+				275592D41A6EC5BE00D106C1 /* Task 1.playground */,
+				275592D31A6EC5B500D106C1 /* Task 2.playground */,
+				275592D21A6EC5AB00D106C1 /* Task 3.playground */,
+			);
+			name = "Array Sorting";
+			sourceTree = "<group>";
+		};
 		27AED7DB1A6EA3B800D16205 = {
 			isa = PBXGroup;
 			children = (
 				27AED80B1A6EBDDC00D16205 /* ArraySorting.playground */,
+				275592D51A6EC5C600D106C1 /* Array Sorting */,
 				27AED80C1A6EBDF200D16205 /* Playgrounds */,
 				27AED7E61A6EA3B800D16205 /* ArraySorting */,
 				27AED7FC1A6EA3B800D16205 /* ArraySortingTests */,
@@ -122,6 +140,10 @@
 			children = (
 				27AED80A1A6EAD3C00D16205 /* ClosuresPractice.playground */,
 				27AED8091A6EA3C700D16205 /* Closures.playground */,
+				273EC1511A6ED2A60095EBEB /* Enumerate.playground */,
+				278CB3A31A6ED6F100356F5B /* Generator.playground */,
+				278CB3A51A6EDEFD00356F5B /* Slice.playground */,
+				278CB3A41A6ED85500356F5B /* Lecture.playground */,
 			);
 			name = Playgrounds;
 			sourceTree = "<group>";
@@ -419,6 +441,7 @@
 				27AED8051A6EA3B800D16205 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27AED8061A6EA3B800D16205 /* Build configuration list for PBXNativeTarget "ArraySortingTests" */ = {
 			isa = XCConfigurationList;
@@ -427,6 +450,7 @@
 				27AED8081A6EA3B800D16205 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
