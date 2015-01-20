@@ -33,6 +33,7 @@
 		278CB3A31A6ED6F100356F5B /* Generator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Generator.playground; sourceTree = "<group>"; };
 		278CB3A41A6ED85500356F5B /* Lecture.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Lecture.playground; sourceTree = "<group>"; };
 		278CB3A51A6EDEFD00356F5B /* Slice.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Slice.playground; sourceTree = "<group>"; };
+		278CB3A61A6EE2AE00356F5B /* Task 4.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Task 4.playground"; sourceTree = "<group>"; };
 		27AED7E41A6EA3B800D16205 /* ArraySorting.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ArraySorting.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		27AED7E81A6EA3B800D16205 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		27AED7E91A6EA3B800D16205 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -72,6 +73,7 @@
 				275592D41A6EC5BE00D106C1 /* Task 1.playground */,
 				275592D31A6EC5B500D106C1 /* Task 2.playground */,
 				275592D21A6EC5AB00D106C1 /* Task 3.playground */,
+				278CB3A61A6EE2AE00356F5B /* Task 4.playground */,
 			);
 			name = "Array Sorting";
 			sourceTree = "<group>";
